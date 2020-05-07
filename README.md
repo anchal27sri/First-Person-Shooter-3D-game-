@@ -19,7 +19,5 @@ Note: Build available in .exe file only.
 
 ## Demonstration: 
 
-
-<!-- https://youtu.be/mNSvHlB6wZM -->
-<!-- https://youtu.be/mNSvHlB6wZM -->
+[![](https://github.com/anchal27sri/First-Person-Shooter-3D-game-/blob/master/project_demo/image.png?raw=true)](https://youtu.be/mNSvHlB6wZM)
 
