@@ -20,7 +20,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 2}
-  m_MinSize: {x: 950, y: 542}
+  m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -43,7 +43,7 @@ MonoBehaviour:
     y: 0
     width: 1536
     height: 789
-  m_MinSize: {x: 950, y: 542}
+  m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &3
 MonoBehaviour:
@@ -281,7 +281,7 @@ MonoBehaviour:
   m_MinSize: {x: 204, y: 342}
   m_MaxSize: {x: 4004, y: 8042}
   vertical: 1
-  controlID: 242
+  controlID: 162
 --- !u!114 &13
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -465,7 +465,7 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 0a130000
+    m_SelectedIDs: 
     m_LastClickedID: 0
     m_ExpandedIDs: e4fbffff00000000
     m_RenameOverlay:
@@ -565,10 +565,10 @@ MonoBehaviour:
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 155}
+    scrollPos: {x: 0, y: 0}
     m_SelectedIDs: d60f0000
     m_LastClickedID: 4054
-    m_ExpandedIDs: 00000000a20a0000420b00008e0b0000a80b0000cc0b0000d40b0000ac0e0000f20f0000f60f0000281000002a100000de100000
+    m_ExpandedIDs: 00000000a20a0000420b00008e0b0000cc0b0000d40b0000ac0e0000f20f0000f60f0000281000002a100000de100000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -648,7 +648,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
-    m_ScrollPosition: {x: 0, y: 0}
+    m_ScrollPosition: {x: 0, y: 149}
     m_GridSize: 64
   m_DirectoriesAreaWidth: 167
 --- !u!114 &20
@@ -739,11 +739,11 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: 0.19626269, y: 0.5778533, z: -0.14564425, w: 0.7787066}
     speed: 2
-    m_Value: {x: 0.19625977, y: 0.57784474, z: -0.14564207, w: 0.778695}
+    m_Value: {x: 0.1962627, y: 0.5778533, z: -0.14564426, w: 0.77870667}
   m_Size:
-    m_Target: 4.3573856
+    m_Target: 25.250235
     speed: 2
-    m_Value: 4.3573856
+    m_Value: 25.250235
   m_Ortho:
     m_Target: 1
     speed: 2
